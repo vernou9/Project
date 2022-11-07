@@ -4,22 +4,21 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "format": "prettier --write 'src/*.js'"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format": "prettier --write 'src/*.js'"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/danba340/gh-action-prettier-on-push.git"
+        "type": "git",
+        "url": "git+https://github.com/danba340/gh-action-prettier-on-push.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/danba340/gh-action-prettier-on-push/issues"
+        "url": "https://github.com/danba340/gh-action-prettier-on-push/issues"
     },
     "homepage": "https://github.com/danba340/gh-action-prettier-on-push#readme",
-    "dependencies": {},
     "devDependencies": {
-      "prettier": "^2.1.1"
+        "prettier": "2.7.1"
     }
-  }
+}
