@@ -1,24 +1,24 @@
 {
-    "name": "gh-action-prettier-on-push",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "format": "prettier --write 'src/*.js'"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/danba340/gh-action-prettier-on-push.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/danba340/gh-action-prettier-on-push/issues"
-    },
-    "homepage": "https://github.com/danba340/gh-action-prettier-on-push#readme",
-    "devDependencies": {
-        "prettier": "2.7.1"
-    }
+  "name": "gh-action-prettier-on-push",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write 'src/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vernou9/Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vernou9/gh-action-prettier-on-push/issues"
+  },
+  "homepage": "https://github.com/vernou9/gh-action-prettier-on-push#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
 }
